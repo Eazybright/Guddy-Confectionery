@@ -1,0 +1,10 @@
+.body{
+  border: 2px solid thin black;
+  margin: 80px 20px 0 20px;
+  font-weight: bold;
+  color: #FFF8DC;
+  text-align: center;
+}
+footer{
+  margin: 100%;
+}

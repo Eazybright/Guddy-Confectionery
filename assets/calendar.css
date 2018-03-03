@@ -1,0 +1,36 @@
+.calendar{
+      font-family: Arial;
+      font-size: 12px;
+      background-image: url('http://localhost/guddy/assets/whiterice.jpg');
+
+}
+table.calendar{
+  margin: auto;
+  border-collapse: collapse;
+}
+.calendar .days td{
+  width: 80px;
+  height: 80px;
+  padding: 4px;
+  border: 1px solid #999;
+  vertical-align: top;
+  background-color: #0ff;
+}
+.calendar .days td:hover{
+  background-color: #8B0000;
+}
+.calendar .highlight{
+  font-weight: bold;
+  color: #00f;
+}
+.content{
+  margin: 10% 20% 10% 20%;
+  position: absolute;
+  float: none;
+}
+.heading{
+  text-align: center;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #8B0000;
+}

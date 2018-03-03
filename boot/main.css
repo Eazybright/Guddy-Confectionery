@@ -1,0 +1,227 @@
+.he
+{
+    align:centre;
+    font-family:"Monotype Corsiva";
+    padding-left: 400px;
+    font-size: 70px;
+}
+
+.lo
+{
+    float:left;
+}
+li
+{
+    padding-right: 80px;
+}
+
+ul :hover
+{
+    font-size:40px;
+}
+
+.mi
+{
+    font-size:80px;
+    color: chartreuse;
+    font-family: Georgia;
+    font-weight: 200;
+
+}
+.ig
+{
+    size: 20px;
+}
+#ni
+{
+    font-family: Algerian;
+    font-weight: 200;
+    color: black;
+}
+
+#bg
+{
+    float: left;
+}
+.dd
+{
+    color: white;
+}
+.white
+{
+    color: white;
+
+}
+.amala
+{
+   background-image: url("amala.jpg");
+}
+.eba
+{
+    background-image: url("eba.jpg");
+}
+.iyan
+{
+    background-image: url("iyan.jpg");
+}
+.ilafun
+{
+    background-image: url("ilafun.jpg");
+}
+.abula
+{
+    background-image: url("abula.jpg");
+}
+.ewedu
+{
+    background-image: url("ewedu.jpg");
+}
+
+.banga
+{
+    background-image: url("banga.jpg");
+}
+.eforiro
+{
+    background-image: url("eforiro.jpg");
+}
+.fufu
+{
+    background-image: url("fufu.jpg");
+}
+.egusi
+{
+    background-image: url("egusi.jpg");
+}
+.okro
+{
+    background-image: url("okro.jpg");
+}
+.whiterice
+{
+    background-image: url("whiterice.jpg");
+}
+.jollof
+{
+    background-image: url("jollof.jpg");
+}
+.friedrice
+{
+    background-image: url("friedrice.jpg");
+}
+.yam
+{
+    background-image: url("yam.jpg");
+}
+.friedyam
+{
+    background-image: url("friedyam.jpg");
+}
+.friedpotatoe
+{
+    background-image: url("friedpotatoe.jpg");
+}
+.spag
+{
+    background-image: url("spag.jpg");
+}
+.catfishsoup
+{
+    background-image: url("catfishsoup.jpg");
+}
+.ewaaganyi
+{
+    background-imfrage: url("ewaaganyi.jpg");
+}
+.beansanddodo
+{
+    background-image: url("beansanddodo.jpg");
+}
+.asaro
+{
+    background-image: url("asaro.jpg");
+}
+.moimoi
+{
+    background-image:url("moimoi.jpg");
+}
+.friedegg
+{
+    background-image: url("friedegg.jpg");
+}
+.friedfish
+{
+    background-image: url("friedfish.jpg");
+}
+.friedmeat
+{
+    background-image: url("friedmeat.jpg");
+}
+.ewaaganyi
+{
+    background-image: url("ewaaganyi.jpg");
+}
+.chicken
+{
+    background-image: url("chicken.jpg");
+}
+.spiced chicken
+{
+    background-image: url("spicedchicken.jpg");
+}
+.shaki
+{
+    background-image: url("shaki.jpg");
+}
+.ponmo
+{
+    background-image: url("ponmo.jpg");
+}
+.spicedfish
+{
+    background-image: url("spicedfish.jpg");
+}
+.hotdog
+{
+    background-image: url("hotdog.jpg");
+}
+.w
+{
+    color: white;
+    font-size: 30px;
+}
+.buns
+{
+    background-image: url("buns.jpg");
+}
+.burger
+{
+    background-image: url("burger.jpg");
+}
+.chin
+{
+    background-image: url("chin.jpg");
+}
+.coco
+{
+    background-image: url("coconutcandy.jpg");
+}
+.fish
+{
+    background-image: url("meatpie.jpg");
+}
+.caro
+{
+    border-image-width: 100px;
+
+}
+footer
+{
+    background-color: black;
+}
+
+
+
+
+
+

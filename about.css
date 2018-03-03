@@ -1,0 +1,44 @@
+.content{
+	border: 10px thin solid #DC143C;
+	margin: 20% 20% 0 75%;
+	box-shadow: 0 0 20px #D0D0D0;
+	border-spacing: 3;
+	text-align: center;
+}
+.content h4{
+	color: blue;
+}
+.intro{
+	background-color: #D8BFD8;
+}
+.intro ul{
+  list-style-type: none;
+  margin: 0 40px 0 0;
+  padding: 0px;
+}
+.intro ul li{
+  float: left;
+  background-color: #D8BFD8;
+  width: 260px;
+  height: 80px;
+  text-decoration: none;
+  font-size: 40px;
+  line-height: 80px;
+  text-align: center;
+  font-weight: bold;
+}
+.intro ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+.intro ul li a:hover{
+  background-color: #F4A460;
+}
+.intro ul li ul li{
+  display: none;
+  list-style-type: none;
+}
+.intro ul li:hover ul li{
+  display: block;
+}
